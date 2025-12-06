@@ -1,0 +1,15 @@
+
+> asemirror@0.1.0 dev
+> npx vite
+
+Forced re-optimization of dependencies
+
+  VITE v5.4.21  ready in 912 ms
+
+  ➜  Local:   http://localhost:1111/
+  ➜  Network: use --host to expose
+7:36:18 PM [vite-plugin-svelte] /data/data/com.termux/files/home/aśẹmirror/src/components/Settings.svelte:64:10 A11y: A form label must be associated with a control.
+7:36:18 PM [vite-plugin-svelte] /data/data/com.termux/files/home/aśẹmirror/src/components/Settings.svelte:91:10 A11y: A form label must be associated with a control.
+7:36:18 PM [vite-plugin-svelte] /data/data/com.termux/files/home/aśẹmirror/src/components/Settings.svelte:100:10 A11y: A form label must be associated with a control.
+7:36:18 PM [vite-plugin-svelte] /data/data/com.termux/files/home/aśẹmirror/src/components/Settings.svelte:112:10 A11y: A form label must be associated with a control.
+7:36:18 PM [vite-plugin-svelte] /data/data/com.termux/files/home/aśẹmirror/src/components/Settings.svelte:121:10 A11y: A form label must be associated with a control.
