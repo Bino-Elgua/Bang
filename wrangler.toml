@@ -1,8 +1,0 @@
-name = "asemirror"
-main = "api.ts"
-compatibility_date = "2024-01-15"
-workers_dev = true
-
-[env.production]
-name = "asemirror-prod"
-vars = { ENVIRONMENT = "production" }
